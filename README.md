@@ -52,5 +52,5 @@ Open `index.html` in your browser to explore the content and interact with the i
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, please contact [Aditya Rana](mailto:adityarana@example.com).
+For any questions or feedback, please contact [Aditya Rana](mailto:adityarana.us14@gmail.com).
 
